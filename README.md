@@ -33,7 +33,9 @@ Programming paradigms emerged to address this issue.  By thinking of algorithms 
 
 JavaScript is a strange mutt, it natively supports much of what is needed for the most popular paradigms.  The three we'll be learning about specifically are _Procedural_, _Object Oriented_, and _Functional_.  What it doesn't support natively, someone has written a library to implement.  As a student this puts you in a tricky position; You'll have to be extra diligent or you could slip very easily into very bad habits. With power comes responsibility. 
 ___ 
+
 ### Resources  
+* [prototypical or classical?](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=A73B2AB940ED4CB35CD1F22CD73CEF67?doi=10.1.1.56.4713&rep=rep1&type=pdf)
 * [Computerphile video](https://www.youtube.com/watch?v=sqV3pL5x8PI)  
 * [From  assembly to OOP](https://www.youtube.com/watch?v=AmS2-9KEeS0)  
 * [Nice comparison intro](https://www.youtube.com/watch?v=CV4vPsEizJM)  
